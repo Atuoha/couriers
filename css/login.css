@@ -1,0 +1,33 @@
+.link{
+  color: #ddd;
+  text-decoration: none;
+}
+
+.link:hover{
+  color:#444;
+  text-decoration: none;
+}
+
+.register_interface{
+    display:none;
+}
+
+.forgot_interface{
+  display:none;
+}
+
+.log_btn{
+  background-color:#f9d700;
+}
+
+.reset_interface{
+display:none;
+/* color: rgb(248, 6, 38) */
+}
+
+#lags{
+  color: rgba(0, 191, 249, 0.87);
+
+
+
+}

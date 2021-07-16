@@ -1,0 +1,8 @@
+{
+  "short_name": "Courier Services",
+  "name": "Speed, fast and effecient couriers",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f9d700",
+  "background_color": "#ffffff"
+}
